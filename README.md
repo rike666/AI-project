@@ -15,3 +15,6 @@ AI-project
 "good"
 "Testnet"
 "Fully Homomorphic Encryption(FHE)"
+"today is 2025.07.03 03:12:11"
+<img width="1106" alt="image" src="https://github.com/user-attachments/assets/e8c27e68-fbd1-44ac-b717-5515231b364e" />
+"BTC by 109434 !!!"
