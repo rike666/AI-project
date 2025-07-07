@@ -25,3 +25,12 @@ AI-project
 “keshiAndy,andy,waimianbuwandeshijiebunengximiecengjinizhiredexin”
 "andy,are you oK"?
 "OK!"
+"hello"
+"how are you"
+"nice to meet you"
+"are you ok"
+"what are you doing"
+"how about you"
+"thank you and you"
+"I'm ok thanks"
+
